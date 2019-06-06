@@ -1,0 +1,4 @@
+db.sqlite3
+django_demo/__pycache__
+todo/migrations
+todo/__pycache__
